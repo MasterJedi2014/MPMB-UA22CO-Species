@@ -19,6 +19,7 @@ SourceList["UA22CO"] = {
 	name : "Unearthed Arcana 2022: Character Origins",
 	abbreviation : "UA22CO",
 	date : "2022/08/18",
+	url : "https://media.dndbeyond.com/compendium-images/one-dnd/character-origins/CSWCVV0M4B6vX6E1/UA2022-CharacterOrigins.pdf",
 };
 
 // Human
