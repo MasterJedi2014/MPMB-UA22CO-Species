@@ -25,7 +25,8 @@ This script will allow users to more easily playtest the upcoming revision to D&
 - **2024-03-20:**
   - Added URL attribute to the source section within the script.
 - **2024-03-21:**
-  - Near-complete overhaul of script to implement RacialVariant objects for the Elves, Gnomes, & Tieflings instead of using a nonfunctional "choices" attribute. V1 has as a result been replaced with V2. 
+  - Near-complete overhaul of script to implement RacialVariant objects for the Elves, Gnomes, & Tieflings instead of using a nonfunctional "choices" attribute. V1 has as a result been replaced with V2.
+  - Similar near-complete overhaul made once again to reduce RaceList objects down to the base Species and to reduce the number of RacialVariant objects down to the number of Species types. In other words, V3 of the script is now formatted the same way as the list above, and V3 takes up less than half the space while still accomplishing what V2 did. As a result, V3 has replaced V2.
 
 **Script Content Source:** https://media.dndbeyond.com/compendium-images/one-dnd/character-origins/CSWCVV0M4B6vX6E1/UA2022-CharacterOrigins.pdf
 
