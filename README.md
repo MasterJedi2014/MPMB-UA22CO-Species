@@ -2,22 +2,22 @@
 This script adds all 7 of the Species from the *Unearthed Arcana 2022: Character Origins* article, excluding those that were superseded or removed in later articles, to the MPMB character sheet.
 
 **Detailed List of Script Content:**
-Adds the following species:
-- Human
-- Dwarf
-- Elves
-  - High Elf
-  - Drow (Dark)
-  - Wood Elf
-- Gnomes
-  - Forest Gnome
-  - Rock Gnome
-- Halfling
-- Orc
-- Tieflings
-  - Abyssal Tiefling
-  - Cthonic Tiefling
-  - Infernal Tiefling
+- Adds the following species:
+  - Human
+  - Dwarf
+  - Elves
+    - High Elf
+    - Drow (Dark)
+    - Wood Elf
+  - Gnomes
+    - Forest Gnome
+    - Rock Gnome
+  - Halfling
+  - Orc
+  - Tieflings
+    - Abyssal Tiefling
+    - Cthonic Tiefling
+    - Infernal Tiefling
 
 This script will allow users to more easily playtest the upcoming revision to D&D 5E.
 
